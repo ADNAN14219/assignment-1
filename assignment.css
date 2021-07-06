@@ -1,0 +1,155 @@
+body {
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(102, 103, 105);
+}
+
+.skip {
+    color: orangered;
+}
+
+.diet {
+    display: flex;
+}
+
+.healthy {
+    width: 50%;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.healthy p {
+    font-size: 20px;
+    color: rgb(76, 77, 80);
+}
+
+.order-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 179, 79), tomato);
+    padding: 20px 40px;
+    border-radius: 35px;
+    color: white;
+    font-weight: 500 bold;
+}
+
+.person {
+    display: flex;
+    margin-top: 65px;
+}
+
+.person {
+    background-image: url(image/Frame\ 57.jpg);
+}
+
+.about {
+    padding: 36px;
+    margin-right: 100px;
+}
+
+.me {
+    color: tomato;
+    font-size: 50px;
+}
+
+.contact {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 179, 79), tomato);
+    padding: 20px 40px;
+    border-radius: 35px;
+    color: white;
+    font-weight: 500 bold;
+}
+
+.sec3 {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.recipie {
+    width: 300px;
+    overflow: hidden;
+    float: left;
+    margin-left: 85px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(185 184 184);
+    padding: 15px
+}
+
+.recipie img {
+    margin-bottom: 25px;
+    width: 100%;
+    border-radius: 10px;
+    float: left;
+    overflow: hidden;
+}
+
+.recipie h3 {
+    margin-bottom: -10px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+.secH {
+    color: rgba(5, 59, 43, 0.945);
+    font-size: 35px;
+}
+
+.secP {
+    color: rgb(37, 59, 48);
+}
+
+.social {
+    padding: 15px;
+    display: flex;
+    margin-top: 500px;
+    margin-left: 75px;
+    margin-right: 75px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #cfcdcd;
+}
+
+.sl {
+    margin-right: 136px;
+}
+
+h2.sln {
+    font-size: 45px;
+    color: rgb(49 62 78);
+}
+
+p.slm {
+    font-weight: 600;
+    color: rgb(84 86 88);
+}
+
+.float {
+    display: flex;
+    padding-left: 230px;
+}
+
+footer {
+    margin: -8px;
+    text-align: center;
+    margin-top: 110px;
+    background-color: rgb(36 38 39);
+    padding: 15px;
+}
+
+span.ff {
+    color: tomato;
+}
+
+span.fn {
+    color: rgb(75 213 156);
+}
+
+p.fp {
+    font-size: 16px;
+    color: rgb(197 116 59);
+}
